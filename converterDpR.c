@@ -2,7 +2,7 @@
   void main()
   {
       float cotacao, dolares, conversao;
-      printf("Insira a cotacao atual:\n");
+      printf("Insira a cotacao do real atual:\n");
       scanf("%f", &cotacao);
       printf("Insira o valor em dolares:\n");
       scanf("%f", &dolares);
