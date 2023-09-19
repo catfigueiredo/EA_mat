@@ -6,7 +6,7 @@
       scanf("%f", &cotacao);
       printf("Insira o valor em reais:\n");
       scanf("%f", &reais);
-      conversao=cotacao/reais;
+      conversao=cotacao*reais;
       printf("valor em dolares= %.2f",conversao);
 
   }
