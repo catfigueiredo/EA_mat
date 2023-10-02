@@ -6,7 +6,7 @@
       float r;
       char O;
 
-      printf("Insira a operacao desejada: \n");
+      printf("Insira a operacao desejada, já com os valores (use '+' para mais, '-' para menos, '*' para multiplicacao e '/' para divisao): \n");
       scanf("%f",&n1);
       scanf("%c",&O);
       scanf("%f",&n2);
