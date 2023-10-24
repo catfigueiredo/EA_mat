@@ -10,6 +10,6 @@ int main()
         a=a+2;
 
     }
-   printf("A somatorio dos numeros pares de 0 a 500 e igual a: %i",b);
+   printf("O somatorio dos numeros pares de 0 a 500 e igual a: %i",b);
 
 }
