@@ -17,7 +17,6 @@
 
              x=x*j;
              j=j+1;
-             printf("fatorial: %i \n",x);
 
          }
          while (j<=a-1);
