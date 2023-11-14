@@ -5,19 +5,22 @@
      x=1;
      b=0;
      c=0;
-     j=1;
 
      while(c<=14)
      {
-
+         j=1;
          printf("Insira um valor inteiro:");
          scanf("%i",&x);
+         a=x;
          do
          {
-             a=x*j;
+
+             x=x*j;
              j=j+1;
+             printf("fatorial: %i \n",x);
+
          }
-         while (j<=a);
+         while (j<=a-1);
         b=b+x;
         c=c+1;
      }
