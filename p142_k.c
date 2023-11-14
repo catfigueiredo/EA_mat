@@ -7,7 +7,7 @@ int main ()
     g=1;
     q=1;
     s=1;
-    while(q<=64)
+    while(q<=30)
     {
        s=s+g;
        g=g*2;
