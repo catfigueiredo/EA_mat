@@ -1,7 +1,6 @@
 #include<stdio.h>
-
-int main()
-{
+ int main()
+ {
    int a, b, x;
    a=1;
    b=3;
@@ -12,4 +11,4 @@ int main()
      a=a+1;
      printf("3 elevado a %i potencia: %i\n", a-1,x);
    }
-}
+ }
